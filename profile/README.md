@@ -12,7 +12,7 @@ The goal of this org is simple: build meaningful, real‑world C++ systems *beca
 | Project | Description |
 | ------- | ----------- |
 | **[Expresso](https://github.com/coding-cpp/expresso)** | Modular C++ backend framework with routing, middleware, and static file serving — minimalist and extensible without heavy dependencies. |
-| **[Mochios](https://github.com/coding-cpp/mochios)** | A lightweight C++ engine for async task coordination and utility functions. |
+| **[Mochios](https://github.com/coding-cpp/mochios)** | A lightweight C++ engine for making simple HTTP requests. |
 | **[Logger](https://github.com/coding-cpp/logger)** | High‑performance logging library designed for low overhead and clear configuration. |
 | **[Brewtils](https://github.com/coding-cpp/brewtils)** | Utility toolkit with common helpers used across many C++ projects. |
 | **[Json](https://github.com/coding-cpp/json)** | Fast JSON parser/serializer with minimal external dependencies and flexible API. |
@@ -23,10 +23,10 @@ The goal of this org is simple: build meaningful, real‑world C++ systems *beca
 | Project | Description |
 | ------- | ----------- |
 | **[Bloomail](https://github.com/coding-cpp/bloomail)** | Experimental email automation & templating engine. |
-| **[YT‑Storage](https://github.com/coding-cpp/yt-storage)** | Structured local storage system for large media files. |
-| **[Nexus](https://github.com/coding-cpp/nexus)** | Bridge utility for modular component linking (experimental). |
-| **[Piano](https://github.com/coding-cpp/piano)** | MIDI/Audio prototype engine for real‑time music utilities. |
-| **[Deadpool](https://github.com/coding-cpp/deadpool)** | Sandbox project exploring memory, compilation, and runtime patterns. |
+| **[YT‑Storage](https://github.com/coding-cpp/yt-storage)** | Free YouTube storage for large files, written in C++. |
+| **[Nexus](https://github.com/coding-cpp/nexus)** | Multi-Threading and async task library for Modern C++. |
+| **[Piano](https://github.com/coding-cpp/piano)** | Virtual piano in C++ made using SFML. |
+| **[Deadpool](https://github.com/coding-cpp/deadpool)** | Multi-Client real-time cli-based chat application written completely in C++. |
 > Every project reflects a principle: **understand the problem deeply, then build with minimal dependencies.** I prioritize learning and craftsmanship over quick hacks or trendy frameworks
 
 ## 🧠 Philosophy & Approach
